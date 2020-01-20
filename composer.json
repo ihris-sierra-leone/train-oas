@@ -1,0 +1,14 @@
+{
+    "name": "root/saris-tiob",
+    "authors": [
+        {
+            "name": "Zalongwa Technologies",
+            "email": "support@zalongwa.com"
+        }
+    ],
+    "require": {
+		"php": ">=5.2.4",
+		"illuminate/database": "^5.2",
+        "illuminate/events": "5.2"
+	}
+}
